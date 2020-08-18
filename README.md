@@ -39,3 +39,9 @@
 - Evitar condição de negação no IF.
 - Nomear funções da maneira especifica e ao mesmo tempo genérica.
 - Comentar o código.
+
+## Extras: 
+videos de clean code do canal do
+Filipe Deschamps:
+
+https://www.youtube.com/watch?v=9w3o9NHXqu0&list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK
